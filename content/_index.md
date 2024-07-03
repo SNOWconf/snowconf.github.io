@@ -4,7 +4,7 @@ menu: "main"
 weight: 1
 ---
 
-#SNOWcon 2025
+# SNOWcon 2025
 
 ## CFP Opens Soon  
 
