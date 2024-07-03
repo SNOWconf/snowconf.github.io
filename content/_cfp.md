@@ -5,4 +5,4 @@ weight: 3
 ---
 
 ### CFP Submission
-(CFP)[https://cfp.snowcon.info]
+[CFP](https://cfp.snowcon.info)

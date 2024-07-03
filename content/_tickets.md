@@ -5,4 +5,4 @@ weight: 4
 ---
 
 ### Buy Tickets
-(Tickets)[https://cfp.snowcon.info]
+[Tickets](https://cfp.snowcon.info)
