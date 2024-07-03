@@ -1,7 +1,7 @@
 ---
 title: "FAQ"
 menu: "main"
-weight: 1
+weight: 2
 ---
 
 ### Venue
