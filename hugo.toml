@@ -1,4 +1,4 @@
-baseURL = 'https://SNOWcon.info/'
+baseURL = 'https://snowcon-info.github.io/www/'
 languageCode = 'en-us'
 title = 'SNOWcon 2025'
 theme = "hugo-bearcub"
