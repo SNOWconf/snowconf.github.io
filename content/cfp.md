@@ -19,7 +19,7 @@ Here's a list of subjects that we favors
 - Security Tool (EDR) Bypass
 - Malware Reversing 
 - Physical Security
-- 
+- Cyber Deception
 
 ### CFP Format
 **Title**: The title should be short and relevant. Unfortunately, it's often the only things the attendees will look at to decide if they go see your talk or not. 
