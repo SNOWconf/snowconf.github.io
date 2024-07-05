@@ -5,4 +5,4 @@ weight: 4
 ---
 
 ### Buy Tickets
-[Tickets](https://tickets.snowcon.info)
+Coming soon. 

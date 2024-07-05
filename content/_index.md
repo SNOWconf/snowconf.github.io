@@ -12,6 +12,3 @@ weight: 1
 
 A Cyber Security Conference with a Ski/Snowboard social aspect.   
 Each year a new destination. 
-
-
-Made with 💟 by [Scoubi](https://x.com/ScoubiMtl).
