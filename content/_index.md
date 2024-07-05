@@ -14,5 +14,5 @@ A Cyber Security Conference with a Ski/Snowboard social aspect.
 Each year a new destination. 
 
 Follow us on 
-- Twitter : https://x.com/SNOWcon_2025
-- BluSky : https://bsky.app/profile/snowcon.bsky.social
+- [Twitter](https://x.com/SNOWcon_2025)
+- [BluSky](https://bsky.app/profile/snowcon.bsky.social)
