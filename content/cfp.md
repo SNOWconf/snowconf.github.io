@@ -11,6 +11,7 @@ We will favor new or unrecorded content.
 Here's a list of subjects that we favors
 - Active Directory 
 - Entra ID (Azure AD)
+- MacOS Security
 - Threat Hunting
 - Detection Engineering
 - DFIR
