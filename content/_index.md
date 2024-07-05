@@ -5,6 +5,7 @@ weight: 1
 ---
 
 # SNOWcon 2025
+*Hacker Winter Camp*
 
 ## CFP Opens Soon  
 
