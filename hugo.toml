@@ -3,5 +3,3 @@ languageCode = 'en-us'
 title = 'SNOWcon 2025'
 theme = "hugo-bearcub"
 
-[params] 
-custom_css = ["themes/hugo-bearcub/assets//speakers.css"]

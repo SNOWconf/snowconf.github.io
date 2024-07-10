@@ -1,0 +1,22 @@
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: separate;
+}
+</style>
+<a href="{{ .Get "url"}}">
+<table>
+  <tr>
+    <td width="100"><img src="{{ .Get "img"}}" width="300"> </th>
+  </tr>
+  <tr> 
+    <td width="100" height="30"><b>{{ .Get "name"}}</b>, <i>{{ .Get "title"}}</td>
+  </tr>  
+  <tr> 
+    <td VALIGN=TOP width="100" height="60">{{ .Get "session-title"}}</td>
+  </tr>  
+</table> 
+</a>
+<br>   
+
+
