@@ -15,6 +15,7 @@ Each year a new destination.
 
 Follow us on 
 - [Twitter](https://x.com/SNOWcon_2025)
+- [LinkedIn](https://www.linkedin.com/company/104531508)
 - [BluSky](https://bsky.app/profile/snowcon.bsky.social)
 
 Join our [Discord Server](https://discord.gg/GFmSkdYj)
