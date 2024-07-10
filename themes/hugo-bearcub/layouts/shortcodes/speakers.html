@@ -1,0 +1,21 @@
+<div>
+<style>
+table, th, td {
+  border: 0px solid black;
+  border-collapse: collapse;
+}
+</style>
+<table>
+  <tr>
+    <td VALIGN=TOP rowspan="3" width="170"><img src="{{ .Get "img"}}" width="150"> </th>
+    <td width="600" height="30"><b>{{ .Get "name"}}</b>, <i>{{ .Get "title"}}</td>
+  </tr>
+  <tr> 
+    <td VALIGN=TOP>{{ .Get "bio" }}</td>      
+  </tr>  
+  <tr> 
+    <td>{{ .Get "socials" }}</td>      
+  </tr>  
+</table> 
+<br>   
+</div>
