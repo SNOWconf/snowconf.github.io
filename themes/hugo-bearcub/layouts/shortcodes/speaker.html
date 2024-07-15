@@ -11,10 +11,10 @@ table, th, td {
     <td width="600" height="30"><b>{{ .Get "name"}}</b>, <i>{{ .Get "title"}}</td>
   </tr>
   <tr> 
-    <td VALIGN=TOP>{{ .Get "bio" }}</td>      
+    <td VALIGN=TOP>{{ .Inner | markdownify }}</td>      
   </tr>  
   <tr> 
-    <td>{{ .Get "socials" }}</td>      
+    <td>{{ .Get "social" }}</td>      
   </tr>  
 </table> 
 <br>   

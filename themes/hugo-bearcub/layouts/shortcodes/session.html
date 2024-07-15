@@ -1,10 +1,14 @@
 <style>
 table, th, td {
-  border: 1px solid black;
-  border-collapse: separate;
+  border: 0px solid black;
+  border-collapse: collapse;
 }
+
+a.ses:link {text-decoration:none;}
+a.ses:visited {text-decoration:none;}
+a.ses:hover {text-decoration:none;}
 </style>
-<a href="{{ .Get "url"}}">
+<a class="ses" href="{{ .Get "url"}}">
 <table>
   <tr>
     <td width="100"><img src="{{ .Get "img"}}" width="300"> </th>
