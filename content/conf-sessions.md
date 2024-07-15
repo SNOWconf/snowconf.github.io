@@ -1,5 +1,5 @@
 ---
-title: "Sessions"
+title: "Sessionss"
 menu: "Conference"
 weight: 2
 ---
