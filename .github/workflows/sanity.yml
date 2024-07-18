@@ -1,0 +1,23 @@
+name: Sanity Check
+on: [pull_request]
+
+jobs: 
+
+run-script:
+
+runs-on: ubuntu-latest
+
+steps:
+- name: Checkout repository
+uses:
+  actions/checkout@v4
+
+- name: Set up Python
+uses: actions/setup-python@v4
+with: python-version '3.9'
+
+- name: Install dependencies
+run: pip3 install -r requirements.txt
+
+- name: Run script
+run: python3 mattest.py
