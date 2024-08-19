@@ -16,4 +16,4 @@ If you want to add content to an existing page you can easily do that directly w
 **NB**: Never make any changes to the `public` folder. This directory is over written every time the site is modfied.
 
 ## URL
-This site can be viewed by visiting https://snowcon-info.github.io/www/ or https://snowcon.info
+This site can be viewed by visiting https://snowcon-info.github.io/ or https://snowcon.info
